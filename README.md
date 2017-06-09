@@ -2,7 +2,7 @@
 ### A mod for Minecraft 1.11.2
 #### By IceMetalPunk
 
-Warpstone is a mysterios ore that doesn't exist naturally. Instead, you can craft it using blaz powder, ender pearls, glowstone, and stone. When you break Warpstone Ore (using at least a diamond pickaxe), you'll get pebbles (1 plus 1 extra for each level of fortune on your pickaxe). These pebbles are the core of the Warpstone mod.
+Warpstone is a mysterious ore that doesn't exist naturally. Instead, you can craft it using blaz powder, ender pearls, glowstone, and stone. When you break Warpstone Ore (using at least a diamond pickaxe), you'll get pebbles (1 plus 1 extra for each level of fortune on your pickaxe). These pebbles are the core of the Warpstone mod.
 
 Surround a diamond with 8 Warpstone pebbles, and you'll get a Warp Pad. Warp Pads can be linked together to allow you to teleport between them, at the cost of XP.
 
