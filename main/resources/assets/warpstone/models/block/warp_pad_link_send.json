@@ -1,0 +1,6 @@
+{
+    "parent": "warpstone:block/warp_pad",
+    "textures": {
+        "top": "warpstone:blocks/warp_pad_top_link_send"
+    }
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "warpstone",
+  "name": "Warpstone",
+  "description": "Adds Warpstone and all its warpy goodness to the game.",
+  "version": "0.1",
+  "mcversion": "1.11.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["IceMetalPunk"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

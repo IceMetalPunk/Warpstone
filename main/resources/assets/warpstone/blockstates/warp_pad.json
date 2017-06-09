@@ -1,0 +1,9 @@
+{
+    "variants": {
+		"normal": { "model": "warpstone:warp_pad_unlinked" },
+        "state=unlinked": { "model": "warpstone:warp_pad_unlinked" },
+        "state=link_send": { "model": "warpstone:warp_pad_link_send" },
+		"state=link_recieve": { "model": "warpstone:warp_pad_link_recieve" },
+		"state=broken": { "model": "warpstone:warp_pad_broken" }
+    }
+}

@@ -1,0 +1,8 @@
+tile.warpstone_ore.name=Warpstone Ore
+tile.warp_pad.name=Warp Pad
+tile.warpstone_block.name=Warpstone Block
+
+item.warp_key.name=Warp Key
+item.warpstone_pebble.name=Warpstone Pebble
+
+itemGroup.warpstone=Warpstone

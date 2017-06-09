@@ -1,0 +1,6 @@
+{
+    "parent": "warpstone:block/warp_pad",
+    "textures": {
+        "top": "blocks/planks_acacia"
+    }
+}
